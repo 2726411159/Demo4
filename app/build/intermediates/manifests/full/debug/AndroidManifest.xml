@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tasks"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.example.tasks.App"
+        android:allowBackup="true"
+        android:icon="@drawable/tubiao"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.example.tasks.WelcomeActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.tasks.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/mystyle" >
+        </activity>
+        <activity
+            android:name="com.example.tasks.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.example.tasks.RegistActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.example.tasks.PersonalActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.example.tasks.NoteActivity"
+            android:label="@string/app_name"
+            android:theme="@style/mystyle1" >
+        </activity>
+        <activity
+            android:name="com.example.tasks.EditActivity"
+            android:label="@string/app_name"
+            android:theme="@style/mystyle1" >
+        </activity>
+        <activity
+            android:name="com.example.tasks.AlarmActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+    </application>
+
+</manifest>

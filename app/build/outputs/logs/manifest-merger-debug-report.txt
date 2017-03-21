@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] D:\annie\2017_AS\class\Demo4\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [cn.aigestudio.datepicker:DatePicker:2.2.0] D:\annie\2017_AS\class\Demo4\app\build\intermediates\exploded-aar\cn.aigestudio.datepicker\DatePicker\2.2.0\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml
+		INJECTED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:14:5-68:19
+MERGED from [com.android.support:support-v4:21.0.3] D:\annie\2017_AS\class\Demo4\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:18:9-45
+activity#com.example.tasks.WelcomeActivity
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:24:13-71
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:22:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.tasks.MainActivity
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:31:9-36:20
+	android:label
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:33:13-45
+	android:theme
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:32:13-40
+activity#com.example.tasks.LoginActivity
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:37:9-41:20
+	android:label
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:39:13-45
+	android:theme
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:40:13-60
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:38:13-41
+activity#com.example.tasks.RegistActivity
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:42:9-46:20
+	android:label
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:44:13-45
+	android:theme
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:45:13-60
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:43:13-42
+activity#com.example.tasks.PersonalActivity
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:47:9-51:20
+	android:label
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:49:13-45
+	android:theme
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:50:13-60
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:48:13-44
+activity#com.example.tasks.NoteActivity
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:52:9-56:20
+	android:label
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:54:13-45
+	android:theme
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:53:13-40
+activity#com.example.tasks.EditActivity
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:57:9-61:16
+	android:label
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:59:9-41
+	android:theme
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:60:9-40
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:58:9-37
+activity#com.example.tasks.AlarmActivity
+ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:62:9-66:20
+	android:theme
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:64:13-60
+	android:name
+		ADDED from D:\annie\2017_AS\class\Demo4\app\src\main\AndroidManifest.xml:63:13-42

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tixing.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_tixing.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title2.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_title2.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_note.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_note.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title1.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_title1.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item1.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\list_item1.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_regist.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_note1.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\activity_note1.xml"
+    },
+    {
+        "merged": "D:\\annie\\2017_AS\\class\\Demo4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\annie\\2017_AS\\class\\Demo4\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]
